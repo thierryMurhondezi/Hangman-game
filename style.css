@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #word {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  #alphabet {
+    margin-bottom: 20px;
+  }
+  
+  #hangman {
+    width: 400px;
+    height: 400px;
+    background-image: url('hangman.png');
+    background-size: cover;
+    margin: 0 auto;
+  }
